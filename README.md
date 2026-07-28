@@ -114,6 +114,12 @@ python src/predict.py
 
 ---
 
+## 📷 Sample Output
+
+### Water Body Segmentation Result
+
+![Prediction Result](outputs/result.png)
+
 ## 👩‍💻 Author
 
 **Swedha Varshini**
